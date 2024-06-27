@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import {  Routes, Route, HashRouter } from 'react-router-dom';
 import Layout from './pages/Layout';
 import Home from './pages/Home';
 import Destination from './pages/Destination';
@@ -11,7 +11,7 @@ import Signin from './pages/Signin';
 export default function App() {
   return (
     <>
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
           <Route path='/' element={<Layout />}>
             <Route index element={<Home />} />
@@ -21,7 +21,7 @@ export default function App() {
             <Route path='signin' element={<Signin />} />
           </Route>
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </>
   );
 }
