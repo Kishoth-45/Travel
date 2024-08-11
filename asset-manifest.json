@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/Travel/static/css/main.4c2f45cd.css",
-    "main.js": "/Travel/static/js/main.33a72648.js",
+    "main.css": "/Travel/static/css/main.8c4b9df0.css",
+    "main.js": "/Travel/static/js/main.5d099d3a.js",
     "static/media/travel-3.mp4": "/Travel/static/media/travel-3.ea362c4dcbe27483b1bf.mp4",
     "static/media/naturebg-1.mp4": "/Travel/static/media/naturebg-1.a4766dc440e3ce208e85.mp4",
     "static/media/naturebg.jpg": "/Travel/static/media/naturebg.bde1b30e34a99e40bd9e.jpg",
     "static/media/Hotel-footer.jpg": "/Travel/static/media/Hotel-footer.09e3d320cbed79615a8c.jpg",
     "static/media/bg_4.jpg": "/Travel/static/media/bg_4.8303217e36e9741b3267.jpg",
     "static/media/about-1.jpg": "/Travel/static/media/about-1.11e6f180c7613b094fdc.jpg",
-    "static/media/about-footerbg.jpg": "/Travel/static/media/about-footerbg.489a6642f67bd886a162.jpg",
     "static/media/services-4.jpg": "/Travel/static/media/services-4.a678fbb6ca44d44ac9ba.jpg",
     "static/media/services-2.jpg": "/Travel/static/media/services-2.d1bb71ac57ced105150b.jpg",
     "static/media/hotelbg2.jpg": "/Travel/static/media/hotelbg2.07ba087af4bcc436ea74.jpg",
@@ -22,6 +21,7 @@
     "static/media/place-3.jpg": "/Travel/static/media/place-3.5bd97fd4fe0fd8211512.jpg",
     "static/media/destination-1.jpg": "/Travel/static/media/destination-1.929d0c72c331c256a84f.jpg",
     "static/media/place-1.jpg": "/Travel/static/media/place-1.cbb7caa5795e5956bde1.jpg",
+    "static/media/login-women.jpg": "/Travel/static/media/login-women.a0ecfc5375b2fc4f3cf8.jpg",
     "static/media/destination-9.jpg": "/Travel/static/media/destination-9.f4604fe6349f33a42205.jpg",
     "static/media/nature-2.jpg": "/Travel/static/media/nature-2.bdf1e2373b2bd9f860d5.jpg",
     "static/media/hotel-resto-1.jpg": "/Travel/static/media/hotel-resto-1.7fd19761a6918d66fb2d.jpg",
@@ -46,20 +46,22 @@
     "static/media/icon-beach-2.jpg": "/Travel/static/media/icon-beach-2.a0ca2bfb489993aa0472.jpg",
     "static/media/hotel-resto-3.jpg": "/Travel/static/media/hotel-resto-3.6d4af38c8a1d006783c6.jpg",
     "static/media/place-2.jpg": "/Travel/static/media/place-2.e9d88c0801b43519636b.jpg",
+    "static/media/login-men.jpg": "/Travel/static/media/login-men.5120173da24bf519ab71.jpg",
     "static/media/travel-logo-2.jpg": "/Travel/static/media/travel-logo-2.27075de673171547c4aa.jpg",
     "static/media/icon-city-2.jpg": "/Travel/static/media/icon-city-2.3719b4fe68a30c2d2e38.jpg",
     "static/media/icon-city-3.jpg": "/Travel/static/media/icon-city-3.3fcf6cdbc27ce49be5d0.jpg",
     "static/media/hotel-resto-5.jpg": "/Travel/static/media/hotel-resto-5.015a9e5a9b8858377a1b.jpg",
+    "static/media/about-footerbg.jpg": "/Travel/static/media/about-footerbg.0bc339b3101f714d01f7.jpg",
     "static/media/icon-falls.jpg": "/Travel/static/media/icon-falls.1638d70c2f1c5dd5e1f2.jpg",
     "static/media/icon-mountain-1.jpg": "/Travel/static/media/icon-mountain-1.d4b13a9aa935653c2f8c.jpg",
     "static/media/hotel-resto-6.jpg": "/Travel/static/media/hotel-resto-6.73ae4078d3469f88fee9.jpg",
     "static/media/waterfall.jpg": "/Travel/static/media/waterfall.c854a0f0174cfb25a243.jpg",
     "index.html": "/Travel/index.html",
-    "main.4c2f45cd.css.map": "/Travel/static/css/main.4c2f45cd.css.map",
-    "main.33a72648.js.map": "/Travel/static/js/main.33a72648.js.map"
+    "main.8c4b9df0.css.map": "/Travel/static/css/main.8c4b9df0.css.map",
+    "main.5d099d3a.js.map": "/Travel/static/js/main.5d099d3a.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c2f45cd.css",
-    "static/js/main.33a72648.js"
+    "static/css/main.8c4b9df0.css",
+    "static/js/main.5d099d3a.js"
   ]
 }
