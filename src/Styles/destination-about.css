@@ -908,7 +908,7 @@
 @media all and (max-width:768px) {
 
     .destinationbg{
-        min-height: 25vh;
+        min-height: 20vh;
         background-position: right;
         background-size: calc(110%);
     }
@@ -916,7 +916,7 @@
         font-size: 40px;
     }
     .hotelbg{
-        min-height: 25vh;
+        min-height: 20vh;
         background-position: right;
         background-size: calc(110%);
     }

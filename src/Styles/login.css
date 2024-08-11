@@ -49,8 +49,10 @@
     width: 370px;
     border-radius: 105px 25px 25px 105px;
     text-align: center;
-    background: rgb(176,18,207);
-    background: linear-gradient(90deg, rgb(111, 4, 133) 2%, rgb(67, 2, 88) 36%, rgb(35, 2, 58) 100%);
+    background-position: center !important;
+    background-size: cover !important;
+    background-repeat: no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.509),rgba(0, 0, 0, 0.505)), url(../assets/images/login-women.jpg);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -115,7 +117,7 @@
 .sign:hover{
     background-color: rgb(255, 94, 0);
     color: white;
-    border: none;
+    border: 1px solid rgb(255, 94, 0);
 }
 
 
@@ -159,8 +161,9 @@
     width: 370px;
     border-radius: 25px 100px 100px 25px;
     text-align: center;
-    background: rgb(176,18,207);
-    background: linear-gradient(90deg, rgb(59, 2, 42) 2%, rgb(83, 7, 67) 36%, rgb(128, 4, 97) 100%);
+    background-position: center !important;
+    background-size: cover !important;
+    background: linear-gradient(rgba(0, 0, 0, 0.523),rgba(0, 0, 0, 0.514)), url(../assets/images/login-men.jpg);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -319,8 +322,6 @@
         width: 170px !important;
         border-radius: 75px 25px 25px 75px;
         text-align: center;
-        background: rgb(176,18,207);
-        background: linear-gradient(90deg, rgb(111, 4, 133) 2%, rgb(67, 2, 88) 36%, rgb(35, 2, 58) 100%);
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -416,8 +417,7 @@
         width: 170px !important;
         border-radius: 25px 80px 80px 25px;
         text-align: center;
-        background: rgb(176,18,207);
-        background: linear-gradient(90deg, rgb(59, 2, 42) 2%, rgb(83, 7, 67) 36%, rgb(128, 4, 97) 100%) !important;
+        background-position: center !important;
         display: flex;
         flex-direction: column;
         align-items: center;

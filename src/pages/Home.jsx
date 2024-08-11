@@ -303,7 +303,7 @@ const Home = () => {
                         <source src={natureVideo2} type="video/mp4" />
                     </video>
                 </div>
-             <div className="footerbox">
+             <div className="footerbox home-footerbox">
                 <div className="footer">
 
                     <div className="footer-about">
